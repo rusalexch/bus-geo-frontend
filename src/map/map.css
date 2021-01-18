@@ -1,0 +1,19 @@
+.map {
+  border-radius: 10px;
+  box-shadow: 0 0 10px black ;
+  background-color: #F0F3F5;
+}
+
+.map_header, .map_footer {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.map_body {
+  margin: 10px;
+}
+
+.map_container {
+  
+  border-radius: 10px;
+}
